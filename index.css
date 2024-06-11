@@ -46,6 +46,7 @@ nav {
     display: flex;
     gap: 29px;
     cursor: pointer;
+    margin-right: 40px;
 }
 
 /* Modal styles */
@@ -131,12 +132,17 @@ nav {
     padding-bottom: 50px;
     display: flex;
     justify-content: space-around;
+    align-items: center;
     background-color: rgb(115, 133, 140);
     margin-top: 90px;
+}
+.home11 img{
+      margin-left: 60%;
 }
 
 .mainText {
     margin-top: 120px;
+    margin-left: 60%;
 }
 
 .mainText h2 {
@@ -275,8 +281,8 @@ nav {
 }
 
 .card img {
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
 }
 
 .c img {
