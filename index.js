@@ -59,17 +59,7 @@ document.getElementById('menLink').addEventListener('click', function() {
     document.getElementById('men').scrollIntoView();
 });
 
-document.getElementById('cartLink').addEventListener('click', function() {
-    alert('Cart link clicked');
-});
 
-document.getElementById('aboutLink').addEventListener('click', function() {
-    alert('About Us link clicked');
-});
-
-document.getElementById('contactLink').addEventListener('click', function() {
-    alert('Contact Us link clicked');
-});
 /*
 // Search functionality
 document.getElementById('searchIcon').addEventListener('click', function() {
