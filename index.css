@@ -357,8 +357,8 @@ nav {
     }
 
     .logo img {
-        width: 100px;
-        height: 100px;
+        width: 80px;
+        height: 80px;
     }
 
     .bar {
@@ -369,7 +369,7 @@ nav {
 
     .icons {
         gap: 15px;
-        margin-right: 40px;
+        margin-right: 45px;
     }
 
     .home11 {
